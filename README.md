@@ -1,7 +1,8 @@
 # РЕЗЮМЕ
 
 ## Личная информация
-**ФИО:** Рязанцев Иоанн Васильевич  ![](img/foto.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![](img/foto_small.jpeg)
+**ФИО:** Рязанцев Иоанн Васильевич 
 
 **Возраст:** 21
 
